@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 97vh;
+}
+
+
+button{
+    background-color: blue;
+    color: white;
+    padding: 8px 20px;
+    border: transparent;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: lightskyblue;
+}
+
+
+
+
